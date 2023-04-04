@@ -1,8 +1,3 @@
-# ÖDEV_TABLE
-ÖDEV_1
-
-
- 
 <!DOCTYPE html>
 <html>
 <head>
