@@ -1,2 +1,2 @@
-# -DEV_TABLE
+# ÖDEV_TABLE
 ÖDEV_1
